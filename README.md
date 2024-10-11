@@ -4,7 +4,7 @@
 <br>
 Selected a publicly available dataset from kaggle and considered the factors such as dataset popularity. After selecting the datasets, downloaded and stored them on the local machine which is my laptop "Asus Vivobook 14".
 <br>
-## Perform Data Analysis:
+# # Perform Data Analysis:
 <br>
 Surfed the dataset throughly and displayed its basic information. Checked for missing (null) values and handled them appropriately. Also checked for duplicate entries in the dataset. If the dataset had any categorical variables (e.g., labels like 'Yes' or 'No', or different categories of items), converted them to numerical values.
 <br>
