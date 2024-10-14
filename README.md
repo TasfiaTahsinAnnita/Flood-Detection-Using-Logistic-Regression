@@ -1,4 +1,4 @@
-# Flood-Detection-Using-Logistic-Regression
+# Flood Detection Using Logistic Regression
 
 ## Table of Contents
 
